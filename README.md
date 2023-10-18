@@ -92,3 +92,10 @@ austin_bikeshare_stations.csv
 5. Текстовый файл или скриншот
 
 Дополнительно можно приложить docker-образ для развертывания СУБД Postgres.
+
+Решение:
+
+5.
+
+![Image alt](https://github.com/MOMIV/DE_T2.01/raw/main/pic/top10_2016.png)
+
